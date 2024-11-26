@@ -1,3 +1,5 @@
+
+
 import Image1 from "./Images/bag.jpg";
 import Image2 from "./Images/sandle.jpg";
 import Image3 from "./Images/watch.jpg";
