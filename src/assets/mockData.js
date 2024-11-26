@@ -1,25 +1,23 @@
-
-
-import Image1 from "./Images/bag.jpg";
-import Image2 from "./Images/sandle.jpg";
-import Image3 from "./Images/watch.jpg";
-import Image4 from "./Images/cap.jpg";
-import Image5 from "./Images/boot1.jpg";
-import Image6 from "./Images/dove.jpg";
-import Image7 from "./Images/headphone.jpg";
-import Image8 from "./Images/robot.jpg";
-import Image9 from "./Images/wwatch.jpg";
-import Image10 from "./Images/shirt.jpg";
-import Image11 from "./Images/boyshirt.jpg";
-import Image12 from "./Images/me.png";
-import Image13 from "./Images/me2.png";
-import Image14 from "./Images/purse.jpg";
-import Image15 from "./Images/water-bottle.jpg";
-import Image16 from "./Images/wshirt.jpg";
-import Image17 from "./Images/camera.png";
-import Image18 from "./Images/jacket.png";
-import Image19 from "./Images/shoes.png";
-import Image20 from "./Images/goggles.png";
+import Image1 from "./images/bag.jpg";
+import Image2 from "./images/sandle.jpg";
+import Image3 from "./images/watch.jpg";
+import Image4 from "./images/cap.jpg";
+import Image5 from "./images/boot1.jpg";
+import Image6 from "./images/dove.jpg";
+import Image7 from "./images/headphone.jpg";
+import Image8 from "./images/robot.jpg";
+import Image9 from "./images/wwatch.jpg";
+import Image10 from "./images/shirt.jpg";
+import Image11 from "./images/boyshirt.jpg";
+import Image12 from "./images/me.png";
+import Image13 from "./images/me2.png";
+import Image14 from "./images/purse.jpg";
+import Image15 from "./images/water-bottle.jpg";
+import Image16 from "./images/wshirt.jpg";
+import Image17 from "./images/camera.png";
+import Image18 from "./images/jacket.png";
+import Image19 from "./images/shoes.png";
+import Image20 from "./images/goggles.png";
 
 
 export const Categories = [
