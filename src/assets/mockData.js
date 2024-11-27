@@ -144,7 +144,7 @@ export const mockData = [
   {
     id: 19,
     image: Image19,
-    name: "jacket",
+    name: "shoes",
     price: 599,
   },
   {
