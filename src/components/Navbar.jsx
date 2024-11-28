@@ -59,7 +59,9 @@ const Navbar = () => {
                 onClick={()=> setIsModelOpen(true)}>
                     Login | Register
                 </button>
-                <button className='block md:hidden'>
+                <button 
+                 onClick={()=> setIsModelOpen(true)}
+                className='block md:hidden'>
                     <FaUser/>
                 </button>
             </div>
